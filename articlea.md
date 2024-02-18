@@ -14,6 +14,14 @@ The Mission of the Python Software Foundation:
 
 [![N|Solid](https://www.python.org/static/img/psf-logo.png)](https://nodesource.com/products/nsolid)
 
+### Membership
+According to the [Python Website](https://www.python.org/psf/membership-faq/) there are 5 types of memberships:
+1. **Basic Members:** Basic members are individuals or entities who are part of the Python language community and who have decided to declare their support for Python and agree to the community Code of Conduct. There is no cost to be a Basic Member.
+2. **Supporting Members:** Supporting Members make a specific annual donation to the PSF to sustain the Foundation and support the Python community. Supporting Members are eligible to vote. You may combine Supporting Membership with any other Membership - i.e. you may sign up for Supporting Membership and also be a Basic, Managing, or Contributing Member or a Fellow.
+3. **Managing Members:** Managing Members are people who dedicate at least five hours per month working to support the Python ecosystem - by organizing Python events, managing or contributing to PSF projects, running infrastructure, participating in one of the PSF's working groups, etc. Managing Members are eligible to vote. There is no cost to be a Managing Member. 
+4. **Contributing Member:** Contributing Members are people who dedicate at least five hours per month working on projects that advance the mission of the PSF, where the work relates to the creation or maintenance of open source software available to the public at no charge. Contributing Members are eligible to vote. There is no cost to be a Contributing Member. 
+5. **Fellows:** Fellows are members who have been nominated for their extraordinary efforts and impact upon Python, the community, and the broader Python ecosystem. Fellows are nominated from the broader community and elevated by a vote of the members. Fellow members are eligible to vote.
+
 # Why Python is Popular
 ---
 Python is a popular programming language for many reasons. Some of the key features that make
