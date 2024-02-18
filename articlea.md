@@ -38,8 +38,6 @@ available for those who want to learn and use Python.
 distribute. This makes it an ideal choice for those who want to create and share their own
 projects without incurring any costs.
 
-Lorem ipsum dolor sit amet.
-
 # Application of Python
 ---
 Python is widely used in many different fields, such as:
